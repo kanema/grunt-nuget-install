@@ -1,0 +1,26 @@
+{
+  "name": "grunt-nuget-install",
+  "description": "Nuget C# solution install packages.",
+  "version": "1.0.5",
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "dargs": "~0.1.0",
+    "async": "~0.2.9"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt": "~0.4.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
