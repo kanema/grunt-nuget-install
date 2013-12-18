@@ -4,7 +4,7 @@
   "version": "1.0.5",
   "main": "Gruntfile.js",
   "repository": {
-    "type": "svn",
+    "type": "git",
 	"url": "https://github.com/kanema/grunt-nuget-install"
   },
   "engines": {
