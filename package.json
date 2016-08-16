@@ -5,7 +5,7 @@
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
-	"url": "https://github.com/kanema/grunt-nuget-install"
+    "url": "https://github.com/kanema/grunt-nuget-install"
   },
   "engines": {
     "node": ">= 0.8.0"
@@ -14,8 +14,8 @@
     "test": "grunt"
   },
   "dependencies": {
-    "dargs": "~2.0.3",
-    "async": "~0.9.0"
+    "async": "~0.9.0",
+    "dargs": "^4.1.0"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.10.0",
